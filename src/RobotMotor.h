@@ -1,5 +1,8 @@
 #ifndef _ROBOTMOTOR_H_
 #define _ROBOTMOTOR_H_
+
+#include <stdint.h>
+
 /* ---------------------------------- 
    --- TB6612FNG Motor controller ---
    ---------------------------------- */

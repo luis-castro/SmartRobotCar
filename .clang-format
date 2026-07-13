@@ -1,0 +1,8 @@
+BasedOnStyle: Google
+SkipMacroDefinitionBody: true
+ColumnLimit: 0
+IndentCaseLabels: true
+AllowShortIfStatementsOnASingleLine: true
+BreakBeforeBraces: Custom
+BraceWrapping:
+  BeforeElse: true
